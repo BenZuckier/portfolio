@@ -1,0 +1,31 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "description": "url shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BTZuckier/ShortURL.git"
+  },
+  "author": "Ben Zuckier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BTZuckier/ShortURL/issues"
+  },
+  "homepage": "https://github.com/BTZuckier/ShortURL#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
+    "monk": "^7.3.2",
+    "nunjucks": "^3.2.2",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
