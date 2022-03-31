@@ -1,6 +1,6 @@
 # Twitter NLP Sentiment Analysis Disaster Prediction
 
-See it live! [nlp.bzuckier.com](nlp.bzuckier.com)
+See it live! [nlp.bzuckier.com](http://nlp.bzuckier.com)
 
 ## Overview
 
