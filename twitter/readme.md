@@ -20,6 +20,10 @@ Full explanation and demo [here](). I think this is the best and easiest way to 
 
 Here's a quick demo (unmute the audio!) of the frontend and model in action.
 
+https://user-images.githubusercontent.com/39951657/160987673-6678944a-c055-468e-ad03-02cb809a976a.mp4
+
+And some images:
+
 ![Disaster](interface/disaster.png)
 
 ![No Disaster](interface/none.png)
