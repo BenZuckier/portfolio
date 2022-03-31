@@ -73,7 +73,7 @@ app.post('/search', async (req, res, next) => {
     if(!short){
         return res.redirect('/');
     }
-    var domain = short.search("bzuckier.com/");//find the domain
+    var domain = short.search("s.bzuckier.com/");//find the domain
     if(domain >=0 ){//if there is the domain
         short = short.substring(domain+13);//get rid of domain, just id
     }
@@ -114,7 +114,7 @@ app.post('/api', async (req, res) => {//restful api that return short from long
         };
         var newShort = await urls.insert(shortUrl);
     }
-    var dom = "https://bzuckier.com/";
+    var dom = "https://s.bzuckier.com/";
     var send = dom.concat(newShort.short);
     return res.json(send);
 });
