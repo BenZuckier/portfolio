@@ -1,5 +1,7 @@
 # Twitter NLP Sentiment Analysis Disaster Prediction
 
+See it live! [nlp.bzuckier.com](nlp.bzuckier.com)
+
 ## Overview
 
 This is an NLP sentiment analysis model that takes in Tweets from [this Kaggle competition](https://www.kaggle.com/competitions/nlp-getting-started/) and determines if it is about an actual disaster or not (users of Twitter are often known to use hyperbole or sarcasm). The model is deployed on Google Cloud VertexAI, and is targeted by a Google Cloud Function endpoint. 
@@ -14,9 +16,13 @@ Deep Neural Network (with Dropout), Flask, Google Cloud Functions (Serverless Co
 
 Full explanation and demo [here](). I think this is the best and easiest way to consume this content.
 
-### Just Demo
+### Just Demo and images
 
 Here's a quick demo (unmute the audio!) of the frontend and model in action.
+
+![Disaster](interface/disaster.png)
+
+![No Disaster](interface/none.png)
 
 ## Files
 
