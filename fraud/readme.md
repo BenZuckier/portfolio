@@ -8,9 +8,11 @@ Flask, Google Apps Script, Google Cloud Functions (Serverless Computing), Google
 
 ### Video Explanation and Demo
 
-[![Watch the video](https://img.youtube.com/vi/qIu0sl1VJWE/maxresdefault.jpg)](https://youtu.be/qIu0sl1VJWE)
+[![Watch the video](https://img.youtube.com/vi/qIu0sl1VJWE/hqdefault.jpg)](https://youtu.be/qIu0sl1VJWE)
 
 ### Just Demo
+
+https://youtu.be/DjLibyUU0zQ
 
 [![Demo video](https://img.youtube.com/vi/DjLibyUU0zQ/maxresdefault.jpg)](https://youtu.be/DjLibyUU0zQ)
 
