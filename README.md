@@ -18,6 +18,7 @@ Here are links and brief summaries of my projects in some particular order.
   - Predict the sales numbers for Rossman drug stores from [this](https://www.kaggle.com/competitions/rossmann-store-sales/overview) competition. This is mostly a deep dive on ML Ops cloud infrastructure and pipelines.
 - [URL Shortener Website](shrtnr) using Node.js, Express, and MongoDB. Nunjucks templating and Bootswatch frontend for nice and easy styling.
   - Website similar to bit.ly or other URL shortener services. Takes in a URL and returns a short URL. Can also do short-URL lookup to retrieve the full URL text without redirecting (good for security checks). Deployed with Google App Engine in the cloud.
+  - Built as a challenge to found a Tech Consulting division for TAMID at my college.
 - [Physics Capstone Project](phys/capstone)
   - Measured gravity using a massive pendulum whose period was measured with a laser, accurate to 1% and precise to .04% of actual "g".
 - [Network Science Assignments](phys/networks/assignments)
