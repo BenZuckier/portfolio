@@ -8,13 +8,13 @@ Flask, Google Apps Script, Google Cloud Functions (Serverless Computing), Google
 
 ### Video Explanation and Demo
 
-[![Watch the video](https://img.youtube.com/vi/qIu0sl1VJWE/hqdefault.jpg)](https://youtu.be/qIu0sl1VJWE)
+Full explanation and demo [here](https://youtu.be/qIu0sl1VJWE). I think this is the best and easiest way to consume this demo.
 
 ### Just Demo
 
-https://youtu.be/DjLibyUU0zQ
+Here's a quick demo of the frontend and model in action, since the Sheet isn't designed to be made public and shared (edit access etc.).
 
-[![Demo video](https://img.youtube.com/vi/DjLibyUU0zQ/maxresdefault.jpg)](https://youtu.be/DjLibyUU0zQ)
+https://user-images.githubusercontent.com/39951657/160971676-1415e59a-b83e-4d10-a23d-da32538025bb.mp4
 
 ### Explanation
 
