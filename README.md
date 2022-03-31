@@ -23,7 +23,7 @@ Here are links and brief summaries of my projects in some particular order.
   1. [Using heuristics](ai/c4p1/). This one is very fun to play actually, feels like a really good human. Ended up being the best agent (even though MCTS should be better, but don't have enough compute resources to throw at MCTS).
   2. [Using Monte Carlo](ai/c4p2/). This one was not that great, but it was very interesting.
   3. [Monte Carlo Tree Search](ai/c4p3/). In theory this converges to mini max and should beat the heuristic approach. Unfortunately I just don't enough time or compute resources to wait for it to converge.
-- [Physics Capstone Project](phys/capstone)
+- [Physics Capstone Project](phys/cap)
   - Measured gravity using a massive pendulum whose period was measured with a laser, accurate to 1% and precise to .04% of actual "g".
 - [Network Science Assignments](phys/networks/assignments)
   - A few assignments from Network Science I and II (Networks in the graph theory sense). The assignments are very complex and required a lot of analysis and programming using Wolfram Mathematica and Python.
