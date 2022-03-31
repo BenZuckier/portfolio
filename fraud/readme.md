@@ -12,7 +12,7 @@ Full explanation and demo [here](https://youtu.be/qIu0sl1VJWE). I think this is 
 
 ### Just Demo
 
-Here's a quick demo of the frontend and model in action, since the Sheet isn't designed to be made public and shared (edit access etc.).
+Here's a quick demo (unmute the audio!) of the frontend and model in action, since the Sheet isn't designed to be made public and shared (edit access etc.).
 
 https://user-images.githubusercontent.com/39951657/160971676-1415e59a-b83e-4d10-a23d-da32538025bb.mp4
 
