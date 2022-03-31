@@ -14,7 +14,7 @@ Deep Neural Network (with Dropout), Flask, Google Cloud Functions (Serverless Co
 
 ### Video Explanation and Demo
 
-Full explanation and demo [here](). I think this is the best and easiest way to consume this content.
+Full explanation and demo [here](https://youtu.be/zyGK2qwCO8M).
 
 ### Just Demo and images
 
