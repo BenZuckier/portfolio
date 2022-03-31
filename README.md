@@ -12,8 +12,8 @@ Here are links and brief summaries of my projects in some particular order.
 
 - a
   - aa
-- b
-  - bb
+- [Fraud](fraud/) model, cloud productionization, and demo. 
+  - Explore and detect fraud on credit card data from [this](https://www.kaggle.com/competitions/ieee-fraud-detection/overview) competition.
 - c
   - cc
 - d
